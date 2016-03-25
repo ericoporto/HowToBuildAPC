@@ -3,10 +3,13 @@ Como Montar um PC
 
 ***ATENÇÃO***
 
-***O texto a seguir é destinado ao público leigo ou iniciante e ainda está em
-constante evolução.***
+***O texto a seguir ainda está em constante evolução.***
 
 ***Quando atingir versão adequada irei alterar essa mensagem.***
+
+***Quando o texto estiver maduro, a idéia é que seja destinado ao público
+leigo ou curioso que esteja interessado em construir um PC mas não sabe como
+começar e precisa entender os passos envolvidos***
 
 ***Faltam referências para todo o texto***
 
@@ -100,6 +103,10 @@ gráficos de softwares CAD, um bom processador i7. Uma placa de vídeo para uso 
 *workstations* pode ser interessante.
 * Para uso com textos, acesso a internet, ou um pequeno servidor de arquivos
 local um i3 com a placa de vídeo interna atenderá sem problemas.
+* Processadores AMD podem ser interessantes caso se deseje obter um menor custo,
+porém usualmente tem um consumo de energia superior, sendo menos eficientes.
+* É aguardada uma nova geração de processadores AMD no momento que deve trazer
+mais competitividade a marca.
 
 ###Placa mãe
 
@@ -170,6 +177,15 @@ número de escritas (ainda que mais lentas) sem comprometer a sua vida útil.
 
 ###Fonte
 
+A fonte é muito importante para saúde do seu computador, uma fonte ruim, mesmo
+que adquirida por motivos financeiros, pode colocar em risco todas as outras
+peças do seu PC, além de usualmente contar com um ruído que tornará a
+experiência de uso do computador desagradável. Usualmente os conectores de
+energia mudam lentamente, e assim é interessante pegar uma boa fonte, que irá
+normalmente divulgar sua qualidade fornecendo uma garantia maior que um ano.
+Uma boa fonte será aproveitada ao longo dos anos mesmo que resolva construir um
+novo computador, pois ela provavelmente será compatível com novos componentes.
+
 ###Gabinete
 
 ###Peças extras
@@ -184,6 +200,7 @@ encaixada em lugar nenhum e o encaixe mecânico entre ela e outra peça é
 possível, a conexão é correta. Toda montagem deve ser realizada com o computador
 desenergizado e no entanto é importante conferir por cabos com possíveis curtos,
 bloqueando uma ventoina e outros problemas antes de ligar o computador.
+
 
 ###Encaixe do processador
 
