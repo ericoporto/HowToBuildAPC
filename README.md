@@ -4,9 +4,10 @@ Como Montar um PC
 ***ATENÇÃO***
 
 ***O texto a seguir é destinado ao público leigo ou iniciante e ainda está em
-constante evolução.
+constante evolução.***
 
-Quando atingir versão adequada irei alterar essa mensagem.***
+***Quando atingir versão adequada irei alterar essa mensagem.***
+
 ***Faltam referências para todo o texto***
 
 
