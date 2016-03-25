@@ -1,10 +1,14 @@
-Como Montar Seu PC
-==================
+Como Montar um PC
+=================
 
 ***ATENÇÃO***
 
-***O texto a seguir é introdutório e ainda está em constante evolução. Quando
-atingir versão adequada irei alterar essa mensagem.***
+***O texto a seguir é destinado ao público leigo ou iniciante e ainda está em
+constante evolução.
+
+Quando atingir versão adequada irei alterar essa mensagem.***
+***Faltam referências para todo o texto***
+
 
 Introdução
 ----------
@@ -55,6 +59,46 @@ Seleção de peças
 ----------------
 
 ###Processador
+
+O processador (CPU) é o cérebro do computador, é o responsável por executar os
+softwares e sua tecnologia usualmente irá definir boa parte dos recursos que
+podem estar disponíveis pela placa mãe.
+
+O processador também é uma das peças de maior consumo elétrico no computador -
+junto da placa de vídeo. Isso pode ser relevante ou não na construção dependendo
+das prioridades de uso do PC, por exemplo, maior consumo elétrico resulta em
+maior potência dissipada no processador, que resulta em maior aquecimento, sendo
+necessária uma melhor solução de resfriamento que pode tornar maior o tamanho do
+PC ou mais barulhento em certos casos.
+
+Um processador para uso em jogos usualmente terá quatro núcleos, e será das
+gerações mais recentes, da família mais recente. No momento a maioria dos jogos
+não fazem grande uso de processamento paralelo na CPU, de forma que um n0úmero
+maior de núcleos pode não ser necessário, sendo mais indicado em aplicações de
+multi processamento intensivo (como renderização 3D ou codificação de vídeo).
+
+Já um uso simples de acesso a internet, produção textual, jogos modestos ou um
+servidor apenas de arquivos, já será suficiente apenas dois núcleos - mas se
+possível pegue um com a tecnologia multithread, que ajudará a aproveitar melhor
+os dois núcleos. Ainda assim, é notável que uma maior frequência de
+processamento usualmente trará maior capacidade de processamento e maior gasto
+de energia.
+
+De maneira simplificada, o custo do processador tende a ser menor quanto mais
+tempo ele está disponível no mercado, e quanto maior a demanda enquanto a oferta
+estiver sendo levemente superior.
+
+**Sendo prático...**
+
+* Para jogos leves, um processador i3 e uma placa de vídeo de jogos simples irá
+atender.
+* Para jogos pesados busque um i5 e uma placa de vídeo de jogos próxima das
+últimas lançadas.
+* Para edição de vídeo, processamento matemático intensivo, renderização de
+gráficos de softwares CAD, um bom processador i7. Uma placa de vídeo para uso em
+*workstations* pode ser interessante.
+* Para uso com textos, acesso a internet, ou um pequeno servidor de arquivos
+local um i3 com a placa de vídeo interna atenderá sem problemas.
 
 ###Placa mãe
 
@@ -127,7 +171,7 @@ número de escritas (ainda que mais lentas) sem comprometer a sua vida útil.
 
 ###Gabinete
 
-###Pecas extras
+###Peças extras
 
 
 Montagem
@@ -138,17 +182,17 @@ ditar os conectores e tamanhos utilizados. Em resumo se uma peça ainda não foi
 encaixada em lugar nenhum e o encaixe mecânico entre ela e outra peça é
 possível, a conexão é correta. Toda montagem deve ser realizada com o computador
 desenergizado e no entanto é importante conferir por cabos com possíveis curtos,
-bloqueando uma ventoina e outros problemas antes de ligar o computador. 
+bloqueando uma ventoina e outros problemas antes de ligar o computador.
 
 ###Encaixe do processador
 
-###Encaixe da Memoria Ram
+###Encaixe da Memória Ram
 
 ###Montagem da placa mãe no gabinete
 
 ###Conexão da fonte
 
-###Encaixe da placa de video
+###Encaixe da placa de vídeo
 
 ###Conexão da fonte
 
