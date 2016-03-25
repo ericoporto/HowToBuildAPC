@@ -107,6 +107,8 @@ local um i3 com a placa de vídeo interna atenderá sem problemas.
 porém usualmente tem um consumo de energia superior, sendo menos eficientes.
 * É aguardada uma nova geração de processadores AMD no momento que deve trazer
 mais competitividade a marca.
+* Existem outros processadores além de AMD e Intel, inclusive que não utilizem
+arquitetura baseada x86, porém não são escopo desse texto.
 
 ###Placa mãe
 
@@ -172,6 +174,24 @@ HDDs por sua vez além de terem menor custo, oferecem acesso de leitura
 sequencial praticamente tão rápido quanto quanto SSDs, e podem tolerar um maior
 número de escritas (ainda que mais lentas) sem comprometer a sua vida útil.
 
+Fisicamente, SSDs costumam ser construídos para encaixes de 2,5 polegadas (ainda
+que sejam mais finos) e HDDs costumam ser encontrados para encaixes de 2,5 e 3,5
+polegadas. SSDs, por não apresentarem partes mecânicas, são silenciosos e podem
+ser apenas encaixados em qualquer gabinete sem apresentar ruído.
+
+**Sendo prático...**
+
+* Se possível, tenha os dois dispositivos no computador, e configure-o para
+aproveitá-los da melhor forma possível - há dicas aqui na sessão sobre o OS.
+* Caso tenha dois, um SSD de 120 GB para OS e um HDD de 1 TB para dados devem
+ser suficientes por muitos anos.
+* Configurações RAID ainda que muito interessantes podem ser caras de ser
+construidas em um PC multipropósito. É possível utilizar RAID via software em
+um NAS dedicado para backup de arquivos pessoais no entanto.
+* HDDs possuem variações, a linha Blue da WD trás um bom balanço de desempenho e
+consumo. Analisar as linhas Green, Blue, Black, Red e Purple da WD pode trazer
+bastante conhecimento sobre como HDDs podem se diferenciar além do armazenamento
+e tamanho físico.
 
 ###Placa de vídeo
 
