@@ -23,6 +23,7 @@ tentarei manter o texto principal o mais independente possível de tecnologias
 correntes devido a rapidez com que elas se modificam, tornando assim o texto
 desatualizado e possívelmente falso.
 
+
 ###Sobre a organização do texto.
 
 Ao final de cada capítulo irei separar o texto a partir de um ponto com o
@@ -94,6 +95,7 @@ tempo ele está disponível no mercado, e quanto maior a demanda enquanto a ofer
 estiver sendo levemente superior. Existem websites que armazenam e comparam
 *benchmarks* de CPUs e podem ajudar a verificar se uma diferença de preço ou
 consumo é justificada em desempenho.
+
 
 **Sendo prático...**
 
@@ -180,7 +182,7 @@ de arquivos locais, hoje ao considerar armazenamento é importante também
 considerar a velocidade de acesso e qualidade do armazenamento - e em alguns
 casos até mesmo a confiabilidade.
 
-Hoje as mídias de armazenamento se apresentam em dois grandes grups: estado
+Hoje as mídias de armazenamento se apresentam em dois grandes grupos: estado
 sólido (SSD) e com partes móveis (HDD). Há outras formas de armazenamento como
 discos híbridos (SSHD) e memórias flash, mas o uso delas pode ser limitante
 quanto ao software (Windows é o único capaz de utilizar SSHD) ou simplesmente
@@ -198,6 +200,7 @@ Fisicamente, SSDs costumam ser construídos para encaixes de 2,5 polegadas (aind
 que sejam mais finos) e HDDs costumam ser encontrados para encaixes de 2,5 e 3,5
 polegadas. SSDs, por não apresentarem partes mecânicas, são silenciosos e podem
 ser apenas encaixados em qualquer gabinete sem apresentar ruído.
+
 
 **Sendo prático...**
 
@@ -253,6 +256,7 @@ boas que podem resultar em má compra. Tenha calma e leia e se informe do produt
 para saber exatamente o que estará adquirindo - você irá olhar esse gabinete por
 muito tempo depois.
 
+
 **Sendo prático...**
 
 * Observe se sua placa mãe é mini-ITX, micro-ATX, ATX, ATX-EXT ou outro e compre
@@ -281,8 +285,6 @@ bloqueando uma ventoina e outros problemas antes de ligar o computador.
 ###Conexão da fonte
 
 ###Encaixe da placa de vídeo
-
-###Conexão da fonte
 
 ###Conexão armazenamento
 
