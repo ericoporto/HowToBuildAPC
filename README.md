@@ -55,7 +55,8 @@ consultar seus requerimentos de sistema mínimos e recomendados.
 Por último, mas não menos importante, é necessário definir a verba que deseja
 dedicar ao projeto. É importante lembrar que o computador desktop alem das peças
 internas, terá o custo do gabinete, assim como de mouse, teclados e monitor, que
-podem ser custos escondidos. Esse guia se limitará a discutir apenas as peças
+podem ser custos escondidos - e as vezes, um bom monitor e teclado podem ser as
+peças mais caras do PC. Esse guia se limitará a discutir apenas as peças
 internas e o gabinete.
 
 
@@ -228,6 +229,34 @@ novo computador, pois ela provavelmente será compatível com novos componentes.
 
 
 ###Gabinete
+
+Gabinetes existem em muitos formatos e tamanhos - os mais exóticos muitas vezes
+ou são difíceis de encontrar ou possuem preços elevados, mas dão aquela cara
+única ao seu computador. Ao procurar um gabinete, você primeiramente está
+restrito ao tamanho e furação da sua placa mãe, o tamanho usualmente designado
+mini, micro, sem designação (o tamanho "normal") e extendida. o comprimento da
+sua placa de vídeo e a altura do cooler do seu processador podem ser restrições
+em PCs para mais entusiastas, e devem ser observadas.
+
+Um bom gabinete deve ter um bom projeto térmico, conter seu hardware sem
+modificações e ser o mais silencioso possível - o silêncio depende do encaixe
+das partes metálicas, capacidade de dissipação térmica, diâmetro de ventoinhas
+e outros.  É ineressante também que o gabinete possua locais para que os cabos
+possam correr nas conexões de forma que fiquem organizados e fora da vista de
+quem olha diretamente a placa mãe.
+
+O melhor gabinete para você deve ser escolhido por você, e há um bom número de
+modelos disponíveis. Se você estiver procurando o com melhores funcionalidades
+por menor custo, consulte os websites na Internet com calma, por que há sempre
+bons gabinetes de baixo preço, porém há sempre gabinetes parecidos de marcas não
+boas que podem resultar em má compra. Tenha calma e leia e se informe do produto
+para saber exatamente o que estará adquirindo - você irá olhar esse gabinete por
+muito tempo depois.
+
+**Sendo prático...**
+
+* Observe se sua placa mãe é mini-ITX, micro-ATX, ATX, ATX-EXT ou outro e compre
+o gabinete de acordo.
 
 ###Peças extras
 
