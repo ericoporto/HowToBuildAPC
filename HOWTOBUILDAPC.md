@@ -5,7 +5,7 @@ How to Build a PC
 
 ***The following text is still under heavy development***
 
-***When it can be considered even pre-alpha, I will remove this warning**
+***When it can be considered even pre-alpha, I will remove this warning***
 
 ***When text is mature enough, it's target audience is the lay/begginner folk, or who is interested in building themselves a Desktop PC but doesn't know where to start.***
 
