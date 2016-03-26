@@ -45,10 +45,11 @@ A computer can be built to surf the web and text editing, image editing, video
 editing, use as home theater computer, casual gamming, high resolution high
 framerate gamming, personal file server, web server, or even heavy mathematical
 simulations. And of course, the computer can also be built for a combination of
-the previously statements - which will be case most of time. Once you have the
+the previous statements - which will be the case most of time. Once you have the
 purpose sorted out, find out which softwares you will be using in it, and look
-into the recommended system requirements available on the softwares websites and
-look into forums to find out which PCs people are really using them with.
+into the recommended system requirements available on the websites for each
+software and also look their forums to find out which PCs people are really
+using them with.
 
 At last, set a budget for the project and try to stick with it. A desktop
 computer will include more than only the pieces inside the computer case, which

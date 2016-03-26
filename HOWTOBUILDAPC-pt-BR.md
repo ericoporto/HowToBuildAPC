@@ -17,7 +17,7 @@ começar e precisa entender os passos envolvidos***
 Introdução
 ----------
 
-Todo o texto desse documento busca ser introdutório a atividade de montar o seu
+O texto desse documento busca ser introdutório a atividade de montar o seu
 próprio PC. Em pontos definidos irei detalhar a tecnologia corrente, porém
 tentarei manter o texto principal o mais independente possível de tecnologias
 correntes devido a rapidez com que elas se modificam, tornando assim o texto
@@ -28,9 +28,8 @@ desatualizado e possívelmente falso.
 
 Ao final de cada capítulo irei separar o texto a partir de um ponto com o
 texto em negrito  **Sendo prático...**. A partir desse ponto, o texto será
-direto ao se referir a tecnologias correntes. No entanto, é importante notar que
-a cópia obtida desse texto pode estar defasada e as observações não sejam
-apropriadas.
+direto ao se referir a tecnologias correntes. A cópia obtida desse texto pode
+estar defasada e as observações podem não ser apropriadas.
 
 Siglas : ainda que o texto esteja em português (brasileiro), as siglas de
 termos técnicos e peças usualmente estarão em inglês para facilitar a busca
@@ -46,23 +45,32 @@ construído de forma simples e expansível, tendo em mente que pode ser necessá
 até mesmo vendê-lo mais a frente para buscar o pc ideal ao seu uso.
 
 O computador pode ser construído para navegar na internet e produzir textos,
-edição ou exibição de vídeo, jogos, um servidor de arquivos pessoal, para edição
-de imagens ou até mesmo executar pesadas simulações. Você pode estar construindo
-um computador para servir um propósito específico ou uma combinação dos
-propósitos anteriores. Definido a que se aplicará o computador é importante
-levantar os softwares que deseja executar para atender esses propósitos e
-consultar seus requerimentos de sistema mínimos e recomendados.
+edição de imagens, edição de vídeo, jogos casuais, jogos pesados e competitivos,
+um servidor de arquivos pessoal, ou até mesmo executar pesadas simulações. Você
+pode estar construindo um computador para servir um propósito específico ou uma
+combinação dos propósitos anteriores. Definido a que se aplicará o computador é
+importante levantar os softwares que deseja executar para atender esses
+propósitos e consultar seus requerimentos de sistema mínimos e recomendados.
 
 Por último, mas não menos importante, é necessário definir a verba que deseja
 dedicar ao projeto. É importante lembrar que o computador desktop alem das peças
 internas, terá o custo do gabinete, assim como de mouse, teclados e monitor, que
 podem ser custos escondidos - e as vezes, um bom monitor e teclado podem ser as
-peças mais caras do PC. Esse guia se limitará a discutir apenas as peças
-internas e o gabinete.
+peças mais caras do PC, além de afetarem sua percepção de qualidade una vez que
+estará utilizando-as para interagir com o computador diariamente. Esse guia se
+limitará a discutir as peças internas e o gabinete.
 
 
 Seleção de peças
 ----------------
+
+Se há um universo de todas possíveis peças, cada vez que você selecionar uma
+para ser parte do seu computador, você estará restringindo as possibilidades
+para as peças que não selecionou ainda. Nesse guia é feita a proposição da
+seleção a partir do processador, e uma sequência arbitrária de escolha de peças.
+Você pode proceder a seleção da forma que desejar, desde que satisfaça as
+condições limites de cada peça.
+
 
 ###Processador
 
