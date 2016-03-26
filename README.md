@@ -90,7 +90,9 @@ de energia.
 
 De maneira simplificada, o custo do processador tende a ser menor quanto mais
 tempo ele está disponível no mercado, e quanto maior a demanda enquanto a oferta
-estiver sendo levemente superior.
+estiver sendo levemente superior. Existem websites que armazenam e comparam
+*benchmarks* de CPUs e podem ajudar a verificar se uma diferença de preço ou
+consumo é justificada em desempenho.
 
 **Sendo prático...**
 
@@ -109,6 +111,10 @@ porém usualmente tem um consumo de energia superior, sendo menos eficientes.
 mais competitividade a marca.
 * Existem outros processadores além de AMD e Intel, inclusive que não utilizem
 arquitetura baseada x86, porém não são escopo desse texto.
+
+* Um website de comparação de CPUs que pode-se utilizar é o
+[CPU Benchmark](https://www.cpubenchmark.net/).
+
 
 ###Placa mãe
 
@@ -141,8 +147,21 @@ atraente ao comparar com outras similares.
 Os limites da memória RAM são definidos pela placa mãe e pela cpu, definindo
 tecnologia, frequência e quantidade máxima de memória RAM em bytes.
 
+Um número de bytes maior concentrado em um número menor de pentes de memória
+possibilitam que o sistema possa ser expandido futuramente sem perder os pentes
+existentes.
+
+É recomendado verificar no site do fabricante da placa mãe se o pente de memória
+está entre os de uso aprovado. Caso não esteja, a memória pode não funcionar, ou
+apresentar falhas apenas em uso extremo. Pode também funcionar, mas realmente só
+será verificada no uso.
+
+
 **Sendo prático...**
 
+*  em geral é interessante ter um número par de pentes para se beneficiar da
+tecnologia *dual channel*. Algumas placas mães para entusiastas permitem uso de
+*triple channel*, sendo necessário pentes em múltiplos de três.
 * A tecnologia disponível nos processadores mais usuais é a memória DDR3 e DDR4,
 com a memória DDR2 apenas em computadores antigos - mas ainda funcionais.
 * É comum já ver a memória DDR5 em placas de vídeo porém não ainda em
@@ -193,6 +212,7 @@ consumo. Analisar as linhas Green, Blue, Black, Red e Purple da WD pode trazer
 bastante conhecimento sobre como HDDs podem se diferenciar além do armazenamento
 e tamanho físico.
 
+
 ###Placa de vídeo
 
 ###Fonte
@@ -205,6 +225,7 @@ energia mudam lentamente, e assim é interessante pegar uma boa fonte, que irá
 normalmente divulgar sua qualidade fornecendo uma garantia maior que um ano.
 Uma boa fonte será aproveitada ao longo dos anos mesmo que resolva construir um
 novo computador, pois ela provavelmente será compatível com novos componentes.
+
 
 ###Gabinete
 
