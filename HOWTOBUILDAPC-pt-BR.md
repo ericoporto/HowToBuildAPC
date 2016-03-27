@@ -313,7 +313,9 @@ imagem similar a que encontrará nesse folheto ou no site do fabricante - siga o
 processo indicado pelo fabricante, o processo mostrado aqui é apenas para fins
 didáticos.
 
-
+Seu processador também provavelmente veio com uma ventoinha montada em um cooler
+ou algum sistema de resfriamento. Se não for o caso, compre um cooler compatível
+com seu processador antes de prosseguir.
 
 ![Steps on fitting imaginary processor](https://raw.githubusercontent.com/ericoporto/HowToBuildAPC/master/img/howtofitprocessor.png)
 

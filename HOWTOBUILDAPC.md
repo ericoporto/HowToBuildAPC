@@ -306,12 +306,81 @@ TBD
 Assembling
 --------
 
-TBD
+The details on assembly your PC will depend directly on the parts you've got,
+the sizes and type of connector will change accordingly. But most of connectors
+are made so you can't fit it wrong, and it's basically a game of if something
+has the shape that can be precisely installed on the other, it's probably where
+you want to install. But there are some quirks and the basic rule is read each
+manual for each part you've got, they will usually have a section describing
+installation that's usually very short. Also your motherboard comes with a
+manual that describes everything with easy to understand pictures and some text.
+
+All the assembly should be made with the computer completely power off, which
+means not plugged to your wall wart or whatever source of power, you will
+connect to that later. Also make sure no cables are obstructing any fan or in
+contact with parts that can become hot with time.
+
+***Warning!*** Your body can contain enough electrostatic charge to damage
+electronic components, using an anti static wrist band (grounding bracelet),
+that is effectively grounded, is the best way to ensure no charge damage occur.
+This is a really important consideration, specially when manipulating your CPU
+or your Video Card.
+
+**During assembly remove any possible source of electric power on your pieces,
+do not connect the wall wart. Only power your equipment once everything has
+been correctly installed in it's place and every electric connection in your
+case has been made. This will help avoid accidental short circuits.**
 
 
 ###Installing the processor
 
-TBD
+Installing the processor can be a scary step, and it's usually what frights more
+the first time builders, which is related to the fragile appearance that both
+the CPU chip and the CPU socket have. The CPU will usually be in a box
+containing in addition a cooler with fan and a small guide on how to install it.
+If no guide came inside your CPU box, you can get it in the manufacturer
+website. In case your CPU didn't came with any type of cooling system, you will
+need to buy it before proceeding.
+
+Next will be shown here, just for reference, an image that's similar to what you
+will find in the processor manual or in the motherboard manual on installing the
+CPU. This process is just an example, follow the process indicated by the
+manufacturer of your components.
+
+![Steps on fitting imaginary processor](https://raw.githubusercontent.com/ericoporto/HowToBuildAPC/master/img/howtofitprocessor.png)
+
+1. Press the locking mechanism and push it to the side so the top metallic cover
+with plastic cover frees the socket.
+
+2. Push the top metallic cover with the plastic cover up, so that they are
+vertical. Don't touch any electric contact, don't touch anywhere inside the
+socket.
+
+3. Remove the plastic cover from the top metallic cover of the socket. Keep this
+plastic cover somewhere safe that you will remember, don't discard it. If later
+on you find out that the motherboard is defective or have any problems that
+require contacting the manufacturer, the manufacturer won't accept a motherboard
+that's received without the protecting plastic cover.
+
+4. Remove the CPU unit from it's plastic cover (similar to the one you just)
+removed, but on the CPU. The same thing applies here to this plastic cover,
+don't discard the plastic cover - if later needed, you will need it to return
+to your CPU manufacturer. Hold the processor by it's sides, don't touch it's
+electric contacts, it has small marks that align with reverse marks in the
+socket. Carefully align and release it in it's place. Visually make sure that
+the CPU is in it's place.
+
+5. Close the metallic cover, it need to touch directly the processor. Place the
+locking mechanism back to it's initial position. This step may require use of
+strength, it's normal, but be careful.
+
+**Being pragmatic...**
+
+* There isn't much here that isn't explained in the guide that came with your
+CPU. So trust your manufacturer.
+* If your motherboard is of a popular model, chances are someone, somewhere
+uploaded a video installing the CPU on it on Youtube. Watch this video.
+
 
 
 ###Installing the RAM modules
