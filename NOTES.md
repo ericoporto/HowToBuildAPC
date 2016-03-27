@@ -4,6 +4,53 @@ NOTES
 This file contains notes and most stuff copied from the web that I've read at
 some point.
 
+##PSU jumpstart and the Paperclip method
+http://forum.overclock3d.net/showthread.php?t=394
+
+What is jump starting? Jump starting is tricking your PSU into thinking that the
+power button on your computer has been pushed, making the psu switch on without
+the need for a motherboard or any switches.
+
+You may be asking yourself why you would ever need to jump start a psu. The
+answer is, you never know when you might have to! Take for instance testing new
+devices / equipment outside of the case when you don't have your motherboard
+wired or powered up. For us water coolers out there, we have to do an initial
+12-24 hour leak test of our systems before installing components. How do you
+suspect we do that without a motherboard? Answer: Jump start! Trust me this will
+come in handy some day even if you can't think of a reason that you'd ever have
+to do this right now.
+
+http://www.seasonic.ru/tech-support/jump-start/
+
+HOW TO JUMP START YOUR POWER SUPPLY (PAPER CLIP TEST)
+
+1. Turn off the Power Supply for your safety, set the I/O switch on the back of
+power supply to the "O" status.
+
+2. Unplug the AC power cord from the power supply.
+
+3. Unplug all devices from the power supply.
+
+4. Plug the AC power cord into the power supply. Have the AC coming directly
+from wall outlet without any filters or UPS.
+
+5. Short between the green and black wires on the 24-pin connector (as show
+    below), with a paper clip or piece of wire. In case if you can’t see wire
+    colors, locate connector lock, place connector facing the lock up and short
+    4th and 5th pins (counting from left to right) in the upper row.
+
+6. Turn on the Power Supply, set the I/O switch of the power supply to the "I"
+status.
+
+7. See if the power supply fan is running. If so, your supply is probably good.
+
+To test fanless and semi-passive power supplies you may try to use some simple
+devices. For example, external fan with 4-pin Molex connector, which will rotate
+if PSU is turned on, or HDD, which will vibrate.
+
+Note: Avoid using more than one device while performing Jump Start. Connect this
+device before turning PSU on.
+
 
 ##Notes on Computer Cases
 Notes from the video by Linus here:

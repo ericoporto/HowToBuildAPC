@@ -21,7 +21,17 @@ O texto desse documento busca ser introdutório a atividade de montar o seu
 próprio PC. Em pontos definidos irei detalhar a tecnologia corrente, porém
 tentarei manter o texto principal o mais independente possível de tecnologias
 correntes devido a rapidez com que elas se modificam, tornando assim o texto
-desatualizado e possívelmente falso.
+desatualizado e possívelmente falso. Esse texto é um guia básico e introdutório,
+não me responsabilizo por qualquer dano que venha a ser causado em peças ou
+acidentes. Use esse guia como um norte, mas faça sua própria pesquisa.
+
+Se quiser montar o próprio computador, mas estiver muito inseguro, mesmo após
+ler a respeito aqui e outras fontes online, ver vídeos sobre o tópico e se
+informar sobre o assunto, pergunte as pessoas que você conhece. É provável que
+conheça alguém, ou conheça alguém que conheça alguém, que possa lhe contar a
+experiência ou até mesmo acompanhar na etapa de montagem - a mais assustadora.
+Existem também fórums e grupos online onde as pessoas podem ajudar desde que
+você leia antes as regras de conduta do fórum e haja de acordo.
 
 
 ###Sobre a organização do texto.
@@ -285,6 +295,15 @@ bloqueando uma ventoina e outros problemas antes de ligar o computador.
 
 
 ###Encaixe do processador
+
+O encaixe do processador é possívelmente a etapa que assusta mais iniciantes,
+o processador é um chip de aparência frágil assim como a aparência do local de
+fixação. O processador usualmente vem acompanhado de um pequeno manual em uma
+folha de papel descrevendo a fixação e uma cópia desse processo pode ser
+encontrado no website da Intel. Se sua placa mãe for de um modelo com muitas
+vendas, há grandes chances que haja um vídeo no Youtube demonstrando exatamente
+a fixação do pocessador nessa placa mãe.
+
 
 ###Encaixe da Memória Ram
 
