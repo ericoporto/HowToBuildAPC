@@ -1,7 +1,5 @@
-This book writing guideline
-===========================
-
-This book writing guideline is made by Érico Vieira Porto, 2016.
+writing guideline
+=================
 
 This guideline is still being written. A Portuguese version will arrive shortly.
 
