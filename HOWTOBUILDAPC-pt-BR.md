@@ -293,6 +293,14 @@ possível, a conexão é correta. Toda montagem deve ser realizada com o computa
 desenergizado e no entanto é importante conferir por cabos com possíveis curtos,
 bloqueando uma ventoina e outros problemas antes de ligar o computador.
 
+***Atenção***, seu corpo pode conter carga eletrostática suficiente para
+inutilizar o dispositivo, é recomendado utilizar uma pulseira de aterramento
+durante todo o processo de manipulação de equipamentos eletrônicos,
+especialmente o processador.
+
+**Durante a montagem retire qualquer alimentação elétrica dos componentes do
+computador em montagem, não conecte a fonte a tomada. Energize o equipamento
+apenas após a correta fixação de todas as peças.**
 
 ###Encaixe do processador
 
@@ -300,11 +308,46 @@ O encaixe do processador é possívelmente a etapa que assusta mais iniciantes,
 o processador é um chip de aparência frágil assim como a aparência do local de
 fixação. O processador usualmente vem acompanhado de um pequeno manual em uma
 folha de papel descrevendo a fixação e uma cópia desse processo pode ser
-encontrado no website da Intel. Se sua placa mãe for de um modelo com muitas
-vendas, há grandes chances que haja um vídeo no Youtube demonstrando exatamente
-a fixação do pocessador nessa placa mãe.
+encontrado no website do fabricante. Abaixo segue, apenas pra referência, uma
+imagem similar a que encontrará nesse folheto ou no site do fabricante - siga o
+processo indicado pelo fabricante, o processo mostrado aqui é apenas para fins
+didáticos.
+
+
 
 ![Steps on fitting imaginary processor](https://raw.githubusercontent.com/ericoporto/HowToBuildAPC/master/img/howtofitprocessor.png)
+
+1. Pressione a trava e empurre para o lado de forma a liberar a tampa de fixação
+do soquete do processador.
+
+2. Levante a tampa do soquete do processador. Não toque em nenhum contato
+elétrico e especialmente não toque na parte interna destinada a receber o
+processador.
+
+3. Remova a tampa protetora da placa mãe e guarde-a em um local que não a perca.
+Se posteriormente descobrir qualquer problema de fabricação com a placa mãe,
+será necessário colocar essa tampa novamente na placa mãe antes de retornar ao
+fabricante. O fabricante não aceitará a devolução, reparo ou troca da placa,
+mesmo que em garantia, sem a tampa protetora.
+
+4. Remova o processador da embalagem. Novamente, não jogue fora a pequena caixa
+plástica que o processador veio fixado, pois caso mais a frente descubra que o
+processador está defeituoso, será necessário retorná-lo ao fabricante no mesmo
+invólucro. Para colocar o processador no soquete, segure o processador pelas
+laterais e alinhe os chanfros do processador aos existentes no soquete, e
+coloque-o soltando levemente no local. Verifique visualmente que o encaixe foi
+pleno.
+
+5. Feche a tampa metálica, pressionando-a de forma a tocar diretamente o
+processador. Coloque a trava de volta a posição inicial. Ao colocar a trava,
+pode ser necessário aplicar um pouco de força - isso é normal.
+
+
+**Sendo prático...**
+
+* Se sua placa mãe for de um modelo com muitas vendas, há grandes chances que
+haja um vídeo no Youtube demonstrando exatamente a fixação do pocessador nessa
+placa mãe. Assita-o.
 
 
 ###Encaixe da Memória Ram
