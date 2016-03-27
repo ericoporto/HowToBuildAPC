@@ -304,6 +304,8 @@ encontrado no website da Intel. Se sua placa mãe for de um modelo com muitas
 vendas, há grandes chances que haja um vídeo no Youtube demonstrando exatamente
 a fixação do pocessador nessa placa mãe.
 
+![Steps on fitting imaginary processor](https://raw.githubusercontent.com/ericoporto/HowToBuildAPC/master/img/howtofitprocessor.png)
+
 
 ###Encaixe da Memória Ram
 
