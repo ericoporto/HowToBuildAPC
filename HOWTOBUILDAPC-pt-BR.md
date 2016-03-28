@@ -237,6 +237,9 @@ e tamanho físico.
 
 ###Placa de vídeo
 
+Ainda a ser escrito.
+
+
 ###Fonte
 
 A fonte é muito importante para saúde do seu computador, uma fonte ruim, mesmo
@@ -280,7 +283,10 @@ muito tempo depois.
 * Observe se sua placa mãe é mini-ITX, micro-ATX, ATX, ATX-EXT ou outro e compre
 o gabinete de acordo.
 
+
 ###Peças extras
+
+Ainda a ser escrito.
 
 
 Montagem
@@ -301,6 +307,7 @@ especialmente o processador.
 **Durante a montagem retire qualquer alimentação elétrica dos componentes do
 computador em montagem, não conecte a fonte a tomada. Energize o equipamento
 apenas após a correta fixação de todas as peças.**
+
 
 ###Encaixe do processador
 
@@ -395,15 +402,36 @@ esquecer, será necessário remover a placa mãe do gabinete para fazer esse pas
 Se seu gabinete tiver algum espelho já instalado que não seja o que veio com sua
 placa mãe, retire-o e encaixe o espelho que veio com sua placa mãe.
 
+Em seguida, para permitir a colocação de peças daqui em diante remova as chapas
+laterais do seu gabinete. Muitos gabinetes permitem que ele seja desmontado até
+obter uma estrutura praticamente apenas estrutural, isso vai facilitar a
+instalação das peças enormemente e permitir que os cabos sejam passados de forma
+ótima, então verifique até onde é possível desmontar seu gabinete de forma que
+ainda seja remontá-lo depois. Alguns gabinetes também permitem separar a chapa
+de fixação da placa mãe também, se o seu permitir, é um bonus.
 
-
+A placa mãe tem contatos elétricos expostos na parte inferior e não pode ser
+diretamente apoiada em uma superfície metálica quando em funcionamento, por isso
+seu gabinete contará com parafusos para erguer a placa sobre a base, e receber
+depois parafusos sobre eles para fixar a placa mãe. Alinhe visualmente sua placa
+mãe sobre a base para verificar que há furos comuns entre a base e a placa mãe -
+mais de seis furos - e marque esses furos. O parafuso utilizado na base tem um
+furo rosqueado para receber outro parafuso sobre ele.
 
 
 ###Conexão da fonte
 
+Ainda a ser escrito.
+
+
 ###Encaixe da placa de vídeo
 
+Ainda a ser escrito.
+
+
 ###Conexão armazenamento
+
+Ainda a ser escrito.
 
 
 Instalação do Sistema Operacional
