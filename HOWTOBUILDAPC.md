@@ -374,12 +374,27 @@ the CPU is in it's place.
 locking mechanism back to it's initial position. This step may require use of
 strength, it's normal, but be careful.
 
+
+Before installing the cooler on the CPU, verify that the CPU surface is
+completely clean. You can use coffee filter and 70% (or purer) alcohol, wet the
+coffee filter a little bit on the alcohol and rub gently until the surface is
+clean. You can use some lighting (like a small flashlight or your phone
+flashlight) closer to the surface so you can see better and certify that the
+surface is clean.
+
+If the cooler is the one that came with the CPU, just keep following the manual,
+and in this case, it probably came with thermal paste already applied. If it
+didn't or it's another cooler, you will need some thermal paste to be applied
+(in small quantities) over the processor.
+
 **Being pragmatic...**
 
 * There isn't much here that isn't explained in the guide that came with your
 CPU. So trust your manufacturer.
+
 * If your motherboard is of a popular model, chances are someone, somewhere
 uploaded a video installing the CPU on it on Youtube. Watch this video.
+
 
 
 

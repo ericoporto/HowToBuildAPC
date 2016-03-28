@@ -345,6 +345,17 @@ processador. Coloque a trava de volta a posição inicial. Ao colocar a trava,
 pode ser necessário aplicar um pouco de força - isso é normal.
 
 
+Antes de encaixar o cooler sobre o processador, verifique que a superfície do
+processador esteja plenamente limpa. É recomendável utilizar um cotonete com
+uma quantidade mínima de álcool isopropílico aplicado para limpar o superfície
+do processador que realizará contato com o cooler.
+
+O encaixe do cooler dever ser feito seguindo o manual, usualmente o cooler que
+vem com o processador já virá com alguma pasta térmica aplicada, porém se o
+cooler a ser instalado for independente, será necessário aplicar pasta térmica
+sobre o processador.
+
+
 **Sendo prático...**
 
 * Se sua placa mãe for de um modelo com muitas vendas, há grandes chances que
@@ -354,7 +365,39 @@ placa mãe. Assita-o.
 
 ###Encaixe da Memória Ram
 
+A memória ram é o componente mais fácil de instalar, simplesmente instale o
+pente de memória RAM no lugar apropriado da placa mãe. Normalmente as placas mãe
+possuem uma pequena trava que deve ser aberta antes da instalação e travada longo
+após.
+
+Se houverem quatro pentes de memória e quatro slots, simplesmente encaixe-os
+preenchendo todos os slots. Para quantidades de pentes inferiores ao número de
+slots, verifique no manual o local apropriado de instalação, algumas placas
+os pentes devem ser instalados de forma intercalada e em outras preenchendo
+gradativamente os slots. Isso será detalhado no manual da placa mãe, indicando
+bancos de memória, se não houver nenhum detalhamento, utilize pares em slots de
+mesma cor. Se for um único pente, usualmente, qualquer slot em que ele seja
+instalado, irá funcionar.
+
+Mais a frente, quando for ligar o computador, a placa mãe irá automaticamente
+ajustar frequência, temporazição e a tensão adequada a memória. Caso você
+verifique que há um problema com sua memória não ser reconhecida, tente primeiro
+definir esses parâmetros manualmente durante o boot. Evite utilizar pentes de
+memória diferentes.
+
+
 ###Montagem da placa mãe no gabinete
+
+O primeiro passo para instalar a placa mãe no gabinete é instalar o espelho de
+conexões que veio na caixa da sua placa mãe, atenção pois há apenas uma posição
+correta de instalação do espelho. Não deixe essa etapa para depois pois se
+esquecer, será necessário remover a placa mãe do gabinete para fazer esse passo.
+Se seu gabinete tiver algum espelho já instalado que não seja o que veio com sua
+placa mãe, retire-o e encaixe o espelho que veio com sua placa mãe.
+
+
+
+
 
 ###Conexão da fonte
 
