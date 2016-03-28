@@ -418,6 +418,8 @@ mãe sobre a base para verificar que há furos comuns entre a base e a placa mã
 mais de seis furos - e marque esses furos. O parafuso utilizado na base tem um
 furo rosqueado para receber outro parafuso sobre ele.
 
+![Parafuso e ferramenta de rosqueio](https://raw.githubusercontent.com/ericoporto/HowToBuildAPC/master/img/mbcasbolt_small.png)
+
 
 ###Conexão da fonte
 
