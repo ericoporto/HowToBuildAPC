@@ -420,10 +420,36 @@ furo rosqueado para receber outro parafuso sobre ele.
 
 ![Parafuso e ferramenta de rosqueio](https://raw.githubusercontent.com/ericoporto/HowToBuildAPC/master/img/mbcasbolt_small.png)
 
+Na figura acima há uma peça que provavelmente acompanha seu gabine, encaixe no
+topo de um parafuso de cabeça de furo rosqueado e use uma chave de fenda ou
+phillips comum para parafusar - siga até colocar apenas os necessários para sua
+placa mãe. Em seguida posicione a placa mãe sobre os parafusos e use um parafuso
+da rosca adequada para fixar a placa mãe nos parafusos que acabou de colocar na
+base.
+
 
 ###Conexão da fonte
 
-Ainda a ser escrito.
+Com a placa mãe já fixada, agora será necessário fixar os cabos da fonte. Antes,
+no entanto, fixe a fonte no gabinete. Lembre-se que a fonte deve estar
+desconectada da tomada. Atente ao manual do gabinete que deve indicar como fixar
+a fonte para garantir melhor circulação de ar. O primeiro conjunto de cabos a
+ser colocado é o maior conector, que deve totalizar 24 pinos, em duas fileiras -
+as vezes esse conector vem na forma 20+4 pinos. Na sua placa mãe irá haver um
+conector de 24 pinos com uma inscrição EATXPWR ou similar e é nesse ponto que
+esse conector da fonte será inserido. Há um padrão de furos em diversos formatos
+para garantir a correta fixação, então há apenas uma posição correta para o
+conector.
+
+Há um segundo conector, de quatro pinos, a ser conectado na placa mãe, que
+exceto por ter apenas quatro pinos, é similar ao que acabou de conectar. Ele irá
+em um ponto da placa mãe marcado com ATX12V ou similar, mas é fácil de encontrar
+por ser o único conector de quatro pinos compatível.
+
+Assim, sua placa mãe já estará alimentada. Ajeite os cabos no gabinete de uma
+maneira que o agrade - e de forma que os cabos não toquem dissipadores de calor
+que possam a vir esquentar ou bloqueiem uma ventoinha. Ainda há mais cabos de
+energia, eles serão fixados nas próximas peças.
 
 
 ###Encaixe da placa de vídeo
