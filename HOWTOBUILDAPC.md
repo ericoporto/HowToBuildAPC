@@ -400,7 +400,23 @@ uploaded a video installing the CPU on it on Youtube. Watch this video.
 
 ###Installing the RAM modules
 
-TBD
+Installing RAM modules are the easiest part of assembling the computer. The RAM
+slots are near where you just installed your CPU, and there is only one way to
+install a RAM module in a slot.
+
+If there are four memory modules and for slots, there are no doubts on where the
+RAM modules should go. But, in any other case, read your motherboard manual, as
+it will specify which slots belong to which memory banks and how you should fill
+them. After fitting the RAM modules, there is small plastic lever that you
+press to lock the memory in place.
+
+Later, when turning the computer on, your motherboard will automatically adjust
+frequency, timing and voltage levels correctly for your memory module. If it
+doesn't, and you are sure the problem is with your ram modules, that can't be
+recognized, you should try defining these parameters manually during boot
+according to what is in your RAM module specification. Avoid using different
+memory modules - usually their performance will be limited by the less
+performing module.
 
 
 ###Mounting the motherboard on the case
