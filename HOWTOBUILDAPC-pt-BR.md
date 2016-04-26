@@ -18,33 +18,35 @@ Introdução
 ----------
 
 O texto desse documento busca ser introdutório a atividade de montar o seu
-próprio PC. Em pontos definidos irei detalhar a tecnologia corrente, porém
-tentarei manter o texto principal o mais independente possível de tecnologias
-correntes devido a rapidez com que elas se modificam, tornando assim o texto
-desatualizado e possívelmente falso. Esse texto é um guia básico e introdutório,
-não me responsabilizo por qualquer dano que venha a ser causado em peças ou
-acidentes. Use esse guia como um norte, mas faça sua própria pesquisa.
+próprio computador, o *Personal Computer*, seu PC. Em pontos definidos irei
+detalhar a tecnologia corrente, porém tentarei manter o texto principal o mais
+independente de nomenclaturas que se alterem muito rapidamente, focando em
+conceitos que espero que estejam aí por muitos anos.
 
-Se quiser montar o próprio computador, mas estiver muito inseguro, mesmo após
-ler a respeito aqui e outras fontes online, ver vídeos sobre o tópico e se
-informar sobre o assunto, pergunte as pessoas que você conhece. É provável que
-conheça alguém, ou conheça alguém que conheça alguém, que possa lhe contar a
-experiência ou até mesmo acompanhar na etapa de montagem - a mais assustadora.
+Esse texto é um guia básico e introdutório, não me responsabilizo por qualquer
+dano que venha a ser causado em peças ou acidentes. Use esse guia como um norte,
+mas faça sua própria pesquisa.
+
+Se quiser montar seu computador, mas estiver muito inseguro, mesmo após ler esse
+texto e outras fontes, ver vídeos sobre o tópico e se informar sobre o assunto,
+pergunte as pessoas que você conhece. É provável que conheça alguém, ou conheça
+alguém que conheça alguém, que possa lhe contar a experiência ou até mesmo
+acompanhar na etapa de montagem - a mais assustadora para quem nunca o fez.
 Existem também fórums e grupos online onde as pessoas podem ajudar desde que
-você leia antes as regras de conduta do fórum e haja de acordo.
+você leia antes as regras de conduta e aja de acordo.
 
 
 ###Sobre a organização do texto.
 
-Ao final de cada capítulo irei separar o texto a partir de um ponto com o
-texto em negrito  **Sendo prático...**. A partir desse ponto, o texto será
-direto ao se referir a tecnologias correntes. A cópia obtida desse texto pode
-estar defasada e as observações podem não ser apropriadas.
+Ao final de cada capítulo irei indicar com a chamada  **Sendo prático...**, onde
+irei me referir a nomenclaturas correntes e as tecnologias sendo utilizadas.
+Tenha em mente que a cópia obtida desse texto pode estar defasada e as
+observações podem não ser apropriadas.
 
 Siglas : ainda que o texto esteja em português (brasileiro), as siglas de
 termos técnicos e peças usualmente estarão em inglês para facilitar a busca
-online e por ser mais utilizados que variantes em português. Ex: usarei OS
-(*operating system*) no lugar de SO quando me referir ao sistema operacional.
+online e por serem mais utilizadas que variantes em português. Ex: usarei OS
+(*Operating System*) no lugar de SO quando me referir ao sistema operacional.
 
 
 ###Uso do Computador
@@ -66,7 +68,7 @@ Por último, mas não menos importante, é necessário definir a verba que desej
 dedicar ao projeto. É importante lembrar que o computador desktop alem das peças
 internas, terá o custo do gabinete, assim como de mouse, teclados e monitor, que
 podem ser custos escondidos - e as vezes, um bom monitor e teclado podem ser as
-peças mais caras do PC, além de afetarem sua percepção de qualidade una vez que
+peças mais caras do PC, além de afetarem sua percepção de qualidade uma vez que
 estará utilizando-as para interagir com o computador diariamente. Esse guia se
 limitará a discutir as peças internas e o gabinete.
 
@@ -90,23 +92,24 @@ podem estar disponíveis pela placa mãe.
 
 O processador também é uma das peças de maior consumo elétrico no computador -
 junto da placa de vídeo. Isso pode ser relevante ou não na construção dependendo
-das prioridades de uso do PC, por exemplo, maior consumo elétrico resulta em
-maior potência dissipada no processador, que resulta em maior aquecimento, sendo
+das prioridades de uso do PC, por exemplo, maior consumo resulta em maior
+potência dissipada no processador, que resulta em maior aquecimento, sendo
 necessária uma melhor solução de resfriamento que pode tornar maior o tamanho do
 PC ou mais barulhento em certos casos.
 
 Um processador para uso em jogos usualmente terá quatro núcleos, e será das
 gerações mais recentes, da família mais recente. No momento a maioria dos jogos
-não fazem grande uso de processamento paralelo na CPU, de forma que um n0úmero
+não fazem grande uso de processamento paralelo na CPU, de forma que um número
 maior de núcleos pode não ser necessário, sendo mais indicado em aplicações de
 multi processamento intensivo (como renderização 3D ou codificação de vídeo).
 
 Já um uso simples de acesso a internet, produção textual, jogos modestos ou um
-servidor apenas de arquivos, já será suficiente apenas dois núcleos - mas se
-possível pegue um com a tecnologia multithread, que ajudará a aproveitar melhor
-os dois núcleos. Ainda assim, é notável que uma maior frequência de
+servidor doméstico apenas de arquivos, já será suficiente apenas dois núcleos -
+mas se possível pegue um com a tecnologia multithread, que ajudará a aproveitar
+melhor os dois núcleos. Ainda assim, é notável que uma maior frequência de
 processamento usualmente trará maior capacidade de processamento e maior gasto
-de energia.
+de energia - isso é relativo no entanto uma vez que processadores mais recentes
+fazem mais coisas ao mesmo tempo e assim conseguem ser mais eficientes.
 
 De maneira simplificada, o custo do processador tende a ser menor quanto mais
 tempo ele está disponível no mercado, e quanto maior a demanda enquanto a oferta
@@ -139,17 +142,24 @@ arquitetura baseada x86, porém não são escopo desse texto.
 
 ###Placa mãe
 
-Uma placa mãe é construída para um grupo de processadores em mente e usualmente
-irá especificar também um fabricante de processador com o qual é compatível. Ao
-parear a placa mãe é necessário verificar se o *socket* do processador é
-compatível com a placa mãe (possuem o mesmo nome, ex: 2011-v3, LGA 1151, ...).
+Uma placa mãe é construída para ser compatível com um grupo de processadores de
+um fabricante. Ao selecionar a placa mãe é necessário verificar se o *socket* do
+processador é compatível com a placa mãe (possuem o mesmo nome, ex: 2011-v3,
+LGA 1151, ...).
 
 O componente mais importante da placa mãe é o chipset, ele ditará os limites da
 Placa Mãe, como memória RAM suportada, e também pode fornecer funcionalidades
 como portas USB 3.0 e outros. O chipset deve ser compatível com o processador.
-O conhecimento do chipset também irá permitir placas mãe mais facilmente, e
-encontrar oportunidades onde uma placa mãe está disponível por um preço
-atraente ao comparar com outras similares.
+O conhecimento do chipset também irá permitir comparar placas mãe mais
+facilmente, e encontrar oportunidades onde uma placa mãe está disponível por um
+preço atraente ao comparar com outras similares.
+
+Se pretende aproveitar alguma peça na sua placa mãe que já tenha além do
+processor, verifique sua compatibilidade - para alguns componentes, como memória
+RAM e SSDs, normalmente há uma lista de compatibilidade disponível para download
+no website do fabricante. Se seu processador escolhido possuir uma placa de
+vídeo interna, é interessante observar a disponibilidade de saídas de vídeo na
+placa mãe sem requerir uma placa de vídeo dedicada.
 
 
  **Sendo prático...**
@@ -187,16 +197,16 @@ tecnologia *dual channel*. Algumas placas mães para entusiastas permitem uso de
 com a memória DDR2 apenas em computadores antigos - mas ainda funcionais.
 * É comum já ver a memória DDR5 em placas de vídeo porém não ainda em
 computadores.
-* Para a maioria das aplicações um total de 8 GB de RAM já será bastante
-suficiente, a exceção sendo atividades de simulação e edição de vídeo em alta
+* Para a maioria das aplicações, um total de 8 GB de RAM já será suficiente,
+a exceção sendo atividades de simulação e edição de vídeo e imagens em alta
 resolução.
 
 
 ###Armazenamento
 
 Armazenamento de dados em grande quantidade ficou barato em tempos recentes, e
-combinado ao uso de serviços on-line que diminuem a necessidade de grande volume
-de arquivos locais, hoje ao considerar armazenamento é importante também
+combinado ao uso de serviços on-line a necessidade de grande volume de arquivos
+locais foi reduzida. Hoje ao considerar armazenamento é importante também
 considerar a velocidade de acesso e qualidade do armazenamento - e em alguns
 casos até mesmo a confiabilidade.
 
@@ -212,7 +222,8 @@ tempo do PC ligar (POST até você utilizar o OS). SSDs são mais caros.
 
 HDDs por sua vez além de terem menor custo, oferecem acesso de leitura
 sequencial praticamente tão rápido quanto quanto SSDs, e podem tolerar um maior
-número de escritas (ainda que mais lentas) sem comprometer a sua vida útil.
+número de escritas (ainda que mais lentas) sem comprometer tanto a sua vida
+útil.
 
 Fisicamente, SSDs costumam ser construídos para encaixes de 2,5 polegadas (ainda
 que sejam mais finos) e HDDs costumam ser encontrados para encaixes de 2,5 e 3,5

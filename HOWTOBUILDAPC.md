@@ -1,13 +1,13 @@
 How to Build a PC
 =================
 
-***WARNINGS***
+***WARNING***
 
 ***The following text is still under heavy development***
 
 ***When it can be considered even pre-alpha, I will remove this warning***
 
-***When text is mature enough, it's target audience is the lay/begginner folk, or who is interested in building themselves a Desktop PC but doesn't know where to start.***
+***When text is mature enough, it's target audience is the lay/beginner folk, or who is interested in building themselves a Desktop PC but doesn't know where to start.***
 
 ***References are still missing for most the text***
 
@@ -42,8 +42,8 @@ can always sell some of them or all the computer later to try to recover some
 money to put in your next build too.
 
 A computer can be built to surf the web and text editing, image editing, video
-editing, use as home theater computer, casual gamming, high resolution high
-framerate gamming, personal file server, web server, or even heavy mathematical
+editing, use as home theater computer, casual gaming, high resolution high
+framerate gaming, personal file server, web server, or even heavy mathematical
 simulations. And of course, the computer can also be built for a combination of
 the previous statements - which will be the case most of time. Once you have the
 purpose sorted out, find out which softwares you will be using in it, and look
@@ -54,7 +54,7 @@ using them with.
 At last, set a budget for the project and try to stick with it. A desktop
 computer will include more than only the pieces inside the computer case, which
 can be hidden costs, they are the computer case itself, mouse, keyboard, a
-monitor, and other things - maybe you need Bluetooth or wireless. These pieces
+monitor, and other things - maybe you need bluetooth or wireless. These pieces
 will affect directly your experience and the perception on the hardware, since
 they are how you will interface with the computer on daily basis. This guide
 will not try to dive in those aspects, and will be more focused on the inside of
@@ -213,7 +213,7 @@ HDDs in this way usually cheaper, offer comparable sequential reading access
 speed to SSDs, and can tolerate a bigger number of write operations without
 compromising it's durability. HDDs can benefit from having bigger cache memory.
 
-Phisically, SSDs usually are built for 2.5 inch bays and HDDs are availabel for
+Physically, SSDs usually are built for 2.5 inch bays and HDDs are available for
 both 2.5 and 3.5 inch bays. SSDs have no mechanical parts, being silent and able
 to fit any computer case without producing sound.
 
@@ -230,7 +230,7 @@ build. It's usually more interesting to have a small NAS with software RAID
 configured as backup solution in your home network if you are concerned with
 data integrity.
 * HDDs have lot variations, the Blue line of the Western Digital manufacturer
-offer a good balance between performance and power consuption. Analizing the
+offer a good balance between performance and power consumption. Analyzing the
 Green, Blue, Black, Red and Purple lines of the Wester Digital can bring a good
 understanding on how HDDs can differentiate beyond byte storage volume and
 physical size.
@@ -253,7 +253,7 @@ because it will probably be compatible with the newer components.
 Get a PSU that offer a warranty that's bigger than one year because bigger
 warranty are usually bundled with the quality of the power supply.  Also look
 for the 80 plus seal and active power correction, because they are usually also
-a indicative of quality. Lastly, check the dBa, and check reviews for silency.
+a indicative of quality. Lastly, check the dBa, and check reviews for silence.
 
 The PSU must be able to supply the power need for all your components and this
 is also very important.
@@ -287,7 +287,7 @@ looking to the motherboard.
 The best case for you should be selected by you, and there a good number of
 available models. If you looking for the best features for less money, check
 the websites carefully because there is usually very good cases even low prices,
-but they will be presented side by side with very cheaply desinged cases, and
+but they will be presented side by side with very cheaply designed cases, and
 choosing wrong can result in a bad purchase. Be calm and read, educate yourself
 on what product you are buying - the case is the part that you will look for a
 long time and a bad purchase can sure bring a lot of regret in this area.
