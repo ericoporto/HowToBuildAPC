@@ -236,10 +236,10 @@ ser suficientes por muitos anos.
 * Configurações RAID ainda que muito interessantes podem ser caras de ser
 construidas em um PC multipropósito. É possível utilizar RAID via software em
 um NAS dedicado para backup de arquivos pessoais no entanto.
-* HDDs possuem variações, a linha Blue da WD trás um bom balanço de desempenho e
-consumo. Analisar as linhas Green, Blue, Black, Red e Purple da WD pode trazer
-bastante conhecimento sobre como HDDs podem se diferenciar além do armazenamento
-e tamanho físico.
+* HDDs possuem variações, a linha Blue da fabricante Western Digital trás um bom
+balanço de desempenho e consumo. Analisar as linhas Green, Blue, Black, Red e
+Purple da WD pode trazer bastante conhecimento sobre como HDDs podem se
+diferenciar além do armazenamento e tamanho físico.
 
 
 ##Placa de vídeo
@@ -263,18 +263,19 @@ novo computador, pois ela provavelmente será compatível com novos componentes.
 
 Gabinetes existem em muitos formatos e tamanhos - os mais exóticos muitas vezes
 ou são difíceis de encontrar ou possuem preços elevados, mas dão aquela cara
-única ao seu computador. Ao procurar um gabinete, você primeiramente está
-restrito ao tamanho e furação da sua placa mãe, o tamanho usualmente designado
-mini, micro, sem designação (o tamanho "normal") e extendida. o comprimento da
-sua placa de vídeo e a altura do cooler do seu processador podem ser restrições
-em PCs para mais entusiastas, e devem ser observadas.
+única ao seu computador. Ao procurar um gabinete, você estará restrito ao
+tamanho e furação da sua placa mãe, usualmente designadas mini, micro, sem
+designação (o tamanho "normal") e extendida. o comprimento da sua placa de vídeo
+e a altura do cooler do seu processador podem ser restrições em PCs para mais
+entusiastas, e devem ser observadas.
 
 Um bom gabinete deve ter um bom projeto térmico, conter seu hardware sem
 modificações e ser o mais silencioso possível - o silêncio depende do encaixe
-das partes metálicas, capacidade de dissipação térmica, diâmetro de ventoinhas
-e outros.  É ineressante também que o gabinete possua locais para que os cabos
-possam correr nas conexões de forma que fiquem organizados e fora da vista de
-quem olha diretamente a placa mãe.
+das partes metálicas, capacidade de dissipação térmica, ventoinhas e outros.
+É interessante também que o gabinete possua locais para que os cabos possam
+ser passados de forma que fiquem organizados e fora da vista de quem olha
+diretamente a placa mãe - esse último é mais uma escolha estética, mas que pode
+ajudar o fluxo de ar.
 
 O melhor gabinete para você deve ser escolhido por você, e há um bom número de
 modelos disponíveis. Se você estiver procurando o com melhores funcionalidades
@@ -318,19 +319,19 @@ apenas após a correta fixação de todas as peças.**
 ##Encaixe do processador
 
 O encaixe do processador é possívelmente a etapa que assusta mais iniciantes,
-o processador é um chip de aparência frágil assim como a aparência do local de
-fixação. O processador usualmente vem acompanhado de um pequeno manual em uma
-folha de papel descrevendo a fixação e uma cópia desse processo pode ser
-encontrado no website do fabricante. Abaixo segue, apenas pra referência, uma
-imagem similar a que encontrará nesse folheto ou no site do fabricante - siga o
-processo indicado pelo fabricante, o processo mostrado aqui é apenas para fins
-didáticos.
+pois ele é um chip de aparência frágil assim como seu local de fixação. O
+processador usualmente vem acompanhado de um pequeno manual em uma folha de
+papel descrevendo a fixação e uma cópia desse processo pode ser encontrado no
+website do fabricante. Abaixo segue, apenas pra referência, uma imagem similar a
+que encontrará nesse folheto ou no site do fabricante - siga o processo indicado
+pelo fabricante, o processo mostrado aqui é apenas para fins didáticos.
 
-Seu processador também provavelmente veio com uma ventoinha montada em um cooler
-ou algum sistema de resfriamento. Se não for o caso, compre um cooler compatível
-com seu processador antes de prosseguir.
+Seu processador também provavelmente veio com uma ventoinha montada em
+dissipador, isso é o chamado *cooler*. Se seu processador não veio acompanhado
+de nenhum sistema de resfriamento, compre um cooler compatível com seu
+processador antes de prosseguir.
 
-![Steps on fitting imaginary processor](../img/howtofitprocessor.png)
+![Passos para instalar um processador imaginário](../img/howtofitprocessor.png)
 
 1. Pressione a trava e empurre para o lado de forma a liberar a tampa de fixação
 do soquete do processador.
@@ -358,15 +359,18 @@ processador. Coloque a trava de volta a posição inicial. Ao colocar a trava,
 pode ser necessário aplicar um pouco de força - isso é normal.
 
 
-Antes de encaixar o cooler sobre o processador, verifique que a superfície do
-processador esteja plenamente limpa. É recomendável utilizar um cotonete com
+Antes de encaixar o cooler sobre o processador, verifique se a superfície do
+processador está plenamente limpa. É recomendável utilizar um cotonete com
 uma quantidade mínima de álcool isopropílico aplicado para limpar o superfície
 do processador que realizará contato com o cooler.
 
 O encaixe do cooler dever ser feito seguindo o manual, usualmente o cooler que
 vem com o processador já virá com alguma pasta térmica aplicada, porém se o
-cooler a ser instalado for independente, será necessário aplicar pasta térmica
-sobre o processador.
+cooler a ser instalado tiver sido adquirido separadamente, ou for verificado que
+não há pasta térmica pré-aplicada, será necessário aplicar pasta térmica sobre o
+processador - use pouco, pois você não quer aumentar a distância entre o metal
+do cooler e o processador, mas sim preencher qualquer ponto entre ambos que
+ficaria vazio sem a pasta.
 
 
 **Sendo prático...**
