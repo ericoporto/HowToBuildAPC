@@ -1,4 +1,4 @@
-Como Montar um PC
+Como Fazer seu PC
 =================
 
 ***ATENÇÃO***

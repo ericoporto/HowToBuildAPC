@@ -8,7 +8,7 @@ To access this small guide on building a PC, click the cover below.
 
 **THIS GUIDE IS STILL UNDER HEAVY DEVELOPMENT SO DON'T TRUST IT YET**
 
-#Como Montar um PC
+#Como Fazer seu PC
 
 Para acessar esse pequeno guia sobre construir um pc, clique na capa abaixo.
 
