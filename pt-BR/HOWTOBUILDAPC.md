@@ -17,14 +17,8 @@ começar e precisa entender os passos envolvidos***
 #Introdução
 
 O texto desse documento busca ser introdutório a atividade de montar o seu
-próprio computador, o *Personal Computer*, seu PC. Em pontos definidos irei
-detalhar a tecnologia corrente, porém tentarei manter o texto principal o mais
-independente de nomenclaturas que se alterem muito rapidamente, focando em
-conceitos que espero que estejam aí por muitos anos.
-
-Esse texto é um guia básico e introdutório, não me responsabilizo por qualquer
-dano que venha a ser causado em peças ou acidentes. Use esse guia como um norte,
-mas faça sua própria pesquisa.
+próprio computador, o *Personal Computer*, seu PC. Esse texto é um guia básico,
+use-o como um norte, mas faça sua própria pesquisa.  
 
 Se quiser montar seu computador, mas estiver muito inseguro, mesmo após ler esse
 texto e outras fontes, ver vídeos sobre o tópico e se informar sobre o assunto,
@@ -34,11 +28,15 @@ acompanhar na etapa de montagem - a mais assustadora para quem nunca o fez.
 Existem também fórums e grupos online onde as pessoas podem ajudar desde que
 você leia antes as regras de conduta e aja de acordo.
 
+Não me responsabilizo por qualquer dano que venha a ser causado em peças ou
+acidentes.
 
 ##Sobre a organização do texto.
 
-Ao final de cada capítulo irei indicar com a chamada  **Sendo prático...**, onde
-irei me referir a nomenclaturas correntes e as tecnologias sendo utilizadas.
+Esse texto busca ser o mais independente de nomenclaturas que se alterem muito
+rapidamente, focando em conceitos que espero que estejam aí por muitos anos.
+Ao final de cada capítulo a chamada  **Sendo prático...** indica onde serão
+citadas as nomenclaturas correntes e as tecnologias sendo utilizadas.
 Tenha em mente que a cópia obtida desse texto pode estar defasada e as
 observações podem não ser apropriadas.
 
