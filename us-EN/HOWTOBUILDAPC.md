@@ -1,6 +1,3 @@
-How to Build a PC
-=================
-
 ***WARNING***
 
 ***The following text is still under heavy development***
@@ -14,8 +11,7 @@ How to Build a PC
 ***English is not my main language, so if you see something wrong, tell me***
 
 
-Introduction
-------------
+#Introduction
 
 This text aims to be introductory to the craft of assembling your own PC. At
 specific points I will try to bring information on the current technology, but
@@ -23,7 +19,7 @@ most of the main chapter of the text shall remain independent of current
 technology due to the speed they change, making the text inaccurate.
 
 
-###On text organization
+##On text organization
 
 At the end of each chapter I will try to mark the point on the text that it
 ceases being conceptual with the saying **Being pragmatic...** in bold. From
@@ -32,7 +28,7 @@ technology. The copy of the text you obtained can nonetheless be outdated or
 inaccurate.
 
 
-###PC use case
+##PC use case
 
 A computer doesn't exist in vacuum, it should exist to fulfill a need, and be
 built to this purpose. If you are unsure of it's use, you have mainly two ways,
@@ -61,8 +57,7 @@ will not try to dive in those aspects, and will be more focused on the inside of
 the computer.
 
 
-Selecting the pieces
---------------------
+#Selecting the pieces
 
 Selecting the pieces usually works like this: you have the universe of all
 possible pieces for your computer, and for each one you select, you will
@@ -72,7 +67,7 @@ or the Processor chip. You can proceed in whatever form makes sense for you
 though, just make sure that the boundary conditions are satisfied.
 
 
-###the Processing unit
+##the Processing unit
 
 The processor (CPU) it's the brain of the computer, it's responsible for
 executing the softwares and it's selection will define a good portion of the
@@ -128,7 +123,7 @@ discuss then here.
 [CPU Benchmark](https://www.cpubenchmark.net/).
 
 
-###Motherboard
+##Motherboard
 
 A motherboard is build with a processor in mind, and broadly will be specific to
 a CPU manufacturer, and also more specific to a definite CPU family. When
@@ -159,7 +154,7 @@ features you won't be using in the next years.
  if they are enough for the processor you selected.
 
 
-###RAM memory card
+##RAM memory card
 
 A RAM memory card, also called DIMM or just RAM, are usually bounded to CPU and
 motherboard, which will require a specific technology and limit frequency and
@@ -192,7 +187,7 @@ high resolution videos. There are other cases, so check your most demanding
 software recommended system requirements.
 
 
-###Storage Drives
+##Storage Drives
 
 Nowadays storage in quantity is usually cheap, and combined with on-line storage
 services and streaming solutions, the necessity for large local storage inside
@@ -236,9 +231,11 @@ understanding on how HDDs can differentiate beyond byte storage volume and
 physical size.
 
 
-###Video Board
+##Video Board
 
-###Power Supply Unit
+TBD
+
+##Power Supply Unit
 
 This component is very important for the health of your computer. A bad power
 supply, even if acquired for financial reasons, can risk all the other parts in
@@ -266,7 +263,7 @@ components will be drawing. Multiply the resulting number by 1.25 and get a
 PSU that has a specified power bigger but closer to that number.
 
 
-###Computer Case
+##Computer Case
 
 Computer cases exists in many formats and sizes - the more exotics are usually
 more expensive or hard to find, but also give that unique look to your computer.
@@ -298,13 +295,12 @@ long time and a bad purchase can sure bring a lot of regret in this area.
 * Observe if you motherboard has mini-ITX, micro-ATX, ATX, ATX-EXT or other form
 factor and buy the case accordingly.
 
-###Extra pieces
+##Extra pieces
 
 TBD
 
 
-Assembling
---------
+#Assembling
 
 The details on assembly your PC will depend directly on the parts you've got,
 the sizes and type of connector will change accordingly. But most of connectors
@@ -332,7 +328,7 @@ been correctly installed in it's place and every electric connection in your
 case has been made. This will help avoid accidental short circuits.**
 
 
-###Installing the processor
+##Installing the processor
 
 Installing the processor can be a scary step, and it's usually what frights more
 the first time builders, which is related to the fragile appearance that both
@@ -398,7 +394,7 @@ uploaded a video installing the CPU on it on Youtube. Watch this video.
 
 
 
-###Installing the RAM modules
+##Installing the RAM modules
 
 Installing RAM modules are the easiest part of assembling the computer. The RAM
 slots are near where you just installed your CPU, and there is only one way to
@@ -419,30 +415,29 @@ memory modules - usually their performance will be limited by the less
 performing module.
 
 
-###Mounting the motherboard on the case
+##Mounting the motherboard on the case
 
 TBD
 
 
-###Connecting the power supply
+##Connecting the power supply
 
 TBD
 
 
-###Mounting the Video Card
+##Mounting the Video Card
 
 TBD
 
 
-###Connecting the storage cables
+##Connecting the storage cables
 
 TBD
 
 
-###Powering the System for the first time
+##Powering the System for the first time
 
 
-Installing the Operating System
--------------------------------
+#Installing the Operating System
 
 TBD

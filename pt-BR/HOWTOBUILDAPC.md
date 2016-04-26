@@ -14,8 +14,7 @@ começar e precisa entender os passos envolvidos***
 ***Faltam referências para todo o texto***
 
 
-Introdução
-----------
+#Introdução
 
 O texto desse documento busca ser introdutório a atividade de montar o seu
 próprio computador, o *Personal Computer*, seu PC. Em pontos definidos irei
@@ -36,7 +35,7 @@ Existem também fórums e grupos online onde as pessoas podem ajudar desde que
 você leia antes as regras de conduta e aja de acordo.
 
 
-###Sobre a organização do texto.
+##Sobre a organização do texto.
 
 Ao final de cada capítulo irei indicar com a chamada  **Sendo prático...**, onde
 irei me referir a nomenclaturas correntes e as tecnologias sendo utilizadas.
@@ -49,7 +48,7 @@ online e por serem mais utilizadas que variantes em português. Ex: usarei OS
 (*Operating System*) no lugar de SO quando me referir ao sistema operacional.
 
 
-###Uso do Computador
+##Uso do Computador
 
 Um computador não existe no vácuo, ele deve existir para atender um uso e ser
 construído com esse uso em mente. Se não houver um uso específico ele deve ser
@@ -73,8 +72,7 @@ estará utilizando-as para interagir com o computador diariamente. Esse guia se
 limitará a discutir as peças internas e o gabinete.
 
 
-Seleção de peças
-----------------
+#Seleção de peças
 
 Se há um universo de todas possíveis peças, cada vez que você selecionar uma
 para ser parte do seu computador, você estará restringindo as possibilidades
@@ -84,7 +82,7 @@ Você pode proceder a seleção da forma que desejar, desde que satisfaça as
 condições limites de cada peça.
 
 
-###Processador
+##Processador
 
 O processador (CPU) é o cérebro do computador, é o responsável por executar os
 softwares e sua tecnologia usualmente irá definir boa parte dos recursos que
@@ -140,7 +138,7 @@ arquitetura baseada x86, porém não são escopo desse texto.
 [CPU Benchmark](https://www.cpubenchmark.net/).
 
 
-###Placa mãe
+##Placa mãe
 
 Uma placa mãe é construída para ser compatível com um grupo de processadores de
 um fabricante. Ao selecionar a placa mãe é necessário verificar se o *socket* do
@@ -173,7 +171,7 @@ placa mãe sem requerir uma placa de vídeo dedicada.
  informação disponível no website do fabricante.
 
 
-###Pente de Memoria Ram
+##Pente de Memoria Ram
 
 Os limites da memória RAM são definidos pela placa mãe e pela cpu, definindo
 tecnologia, frequência e quantidade máxima de memória RAM em bytes.
@@ -202,7 +200,7 @@ a exceção sendo atividades de simulação e edição de vídeo e imagens em al
 resolução.
 
 
-###Armazenamento
+##Armazenamento
 
 Armazenamento de dados em grande quantidade ficou barato em tempos recentes, e
 combinado ao uso de serviços on-line a necessidade de grande volume de arquivos
@@ -246,12 +244,12 @@ bastante conhecimento sobre como HDDs podem se diferenciar além do armazenament
 e tamanho físico.
 
 
-###Placa de vídeo
+##Placa de vídeo
 
 Ainda a ser escrito.
 
 
-###Fonte
+##Fonte
 
 A fonte é muito importante para saúde do seu computador, uma fonte ruim, mesmo
 que adquirida por motivos financeiros, pode colocar em risco todas as outras
@@ -263,7 +261,7 @@ Uma boa fonte será aproveitada ao longo dos anos mesmo que resolva construir um
 novo computador, pois ela provavelmente será compatível com novos componentes.
 
 
-###Gabinete
+##Gabinete
 
 Gabinetes existem em muitos formatos e tamanhos - os mais exóticos muitas vezes
 ou são difíceis de encontrar ou possuem preços elevados, mas dão aquela cara
@@ -295,13 +293,12 @@ muito tempo depois.
 o gabinete de acordo.
 
 
-###Peças extras
+##Peças extras
 
 Ainda a ser escrito.
 
 
-Montagem
---------
+#Montagem
 
 A montagem do PC é usualmente mais dependente das tecnologias, pois elas irão
 ditar os conectores e tamanhos utilizados. Em resumo se uma peça ainda não foi
@@ -320,7 +317,7 @@ computador em montagem, não conecte a fonte a tomada. Energize o equipamento
 apenas após a correta fixação de todas as peças.**
 
 
-###Encaixe do processador
+##Encaixe do processador
 
 O encaixe do processador é possívelmente a etapa que assusta mais iniciantes,
 o processador é um chip de aparência frágil assim como a aparência do local de
@@ -381,7 +378,7 @@ haja um vídeo no Youtube demonstrando exatamente a fixação do pocessador ness
 placa mãe. Assita-o.
 
 
-###Encaixe da Memória Ram
+##Encaixe da Memória Ram
 
 A memória ram é o componente mais fácil de instalar, simplesmente instale o
 pente de memória RAM no lugar apropriado da placa mãe. Normalmente as placas mãe
@@ -404,7 +401,7 @@ definir esses parâmetros manualmente durante o boot. Evite utilizar pentes de
 memória diferentes.
 
 
-###Montagem da placa mãe no gabinete
+##Montagem da placa mãe no gabinete
 
 O primeiro passo para instalar a placa mãe no gabinete é instalar o espelho de
 conexões que veio na caixa da sua placa mãe, atenção pois há apenas uma posição
@@ -439,7 +436,7 @@ da rosca adequada para fixar a placa mãe nos parafusos que acabou de colocar na
 base.
 
 
-###Conexão da fonte
+##Conexão da fonte
 
 Com a placa mãe já fixada, agora será necessário fixar os cabos da fonte. Antes,
 no entanto, fixe a fonte no gabinete. Lembre-se que a fonte deve estar
@@ -463,18 +460,17 @@ que possam a vir esquentar ou bloqueiem uma ventoinha. Ainda há mais cabos de
 energia, eles serão fixados nas próximas peças.
 
 
-###Encaixe da placa de vídeo
+##Encaixe da placa de vídeo
 
 Ainda a ser escrito.
 
 
-###Conexão armazenamento
+##Conexão armazenamento
 
 Ainda a ser escrito.
 
 
-Instalação do Sistema Operacional
----------------------------------
+#Instalação do Sistema Operacional
 
 A instalação do sistema operacional pode ser resumida em inserir a mídia de
 instalação e seguir as configurações recomendadas conforme elas são apresentadas

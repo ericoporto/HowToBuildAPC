@@ -1,0 +1,14 @@
+---
+title:
+- type: main
+  text: How to Build a PC
+creator:
+- role: author
+  text: Érico Vieira Porto
+identifier:
+- scheme: DOI
+  text: doi:00.000000.000/00
+publisher:  My Press
+rights: © 2016 Érico Vieira Porto
+cover-image: cover.png
+...
