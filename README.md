@@ -17,5 +17,5 @@ To access this small guide on building a PC, click the cover below.
 Para acessar esse pequeno guia sobre construir um pc, clique na capa abaixo.
 
 <a href="https://github.com/ericoporto/HowToBuildAPC/blob/master/HOWTOBUILDAPC-pt-BR.md" rel="How to build a PC">
-![ComoMontarUmPC_capa](https://raw.githubusercontent.com/ericoporto/HowToBuildAPC/master/img/cove_small_ptbr.png)
+![ComoMontarUmPC_capa](https://raw.githubusercontent.com/ericoporto/HowToBuildAPC/master/img/cover_small_ptbr.png)
 </a>
