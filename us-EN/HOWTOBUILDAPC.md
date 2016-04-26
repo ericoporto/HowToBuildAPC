@@ -343,7 +343,7 @@ will find in the processor manual or in the motherboard manual on installing the
 CPU. This process is just an example, follow the process indicated by the
 manufacturer of your components.
 
-![Steps on fitting imaginary processor](https://raw.githubusercontent.com/ericoporto/HowToBuildAPC/master/img/howtofitprocessor.png)
+![Steps on fitting imaginary processor](../img/howtofitprocessor.png)
 
 1. Press the locking mechanism and push it to the side so the top metallic cover
 with plastic cover frees the socket.

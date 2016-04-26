@@ -6,7 +6,11 @@
 LANGUAGES=("pt-BR" "us-EN")
 HERE=`pwd`
 
+
 for lang in ${LANGUAGES[@]}; do
+   rm -f $HERE/howtobuildapc_$lang.epub
+   rm -f $HERE/howtobuildapc_$lang.mobi
+
    cd $HERE/../$lang
 
    pandoc -S -o $HERE/howtobuildapc_$lang.epub title.txt HOWTOBUILDAPC.md
