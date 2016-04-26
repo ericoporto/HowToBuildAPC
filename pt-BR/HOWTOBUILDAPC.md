@@ -332,7 +332,7 @@ Seu processador também provavelmente veio com uma ventoinha montada em um coole
 ou algum sistema de resfriamento. Se não for o caso, compre um cooler compatível
 com seu processador antes de prosseguir.
 
-![Steps on fitting imaginary processor](https://raw.githubusercontent.com/ericoporto/HowToBuildAPC/master/img/howtofitprocessor.png)
+![Steps on fitting imaginary processor](../img/howtofitprocessor.png)
 
 1. Pressione a trava e empurre para o lado de forma a liberar a tampa de fixação
 do soquete do processador.
@@ -426,7 +426,7 @@ mãe sobre a base para verificar que há furos comuns entre a base e a placa mã
 mais de seis furos - e marque esses furos. O parafuso utilizado na base tem um
 furo rosqueado para receber outro parafuso sobre ele.
 
-![Parafuso e ferramenta de rosqueio](https://raw.githubusercontent.com/ericoporto/HowToBuildAPC/master/img/mbcasbolt_small.png)
+![Parafuso e ferramenta de rosqueio](../img/mbcasbolt_small.png)
 
 Na figura acima há uma peça que provavelmente acompanha seu gabine, encaixe no
 topo de um parafuso de cabeça de furo rosqueado e use uma chave de fenda ou
