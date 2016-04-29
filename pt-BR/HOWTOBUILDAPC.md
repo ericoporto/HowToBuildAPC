@@ -244,7 +244,45 @@ diferenciar além do armazenamento e tamanho físico.
 
 ##Placa de vídeo
 
-Ainda a ser escrito.
+Se você deseja apenas jogar jogos, a placa de vídeo é a peça mais importante do
+computador. Se você não deseja jogar nada pesado, a placa de vídeo pode ser
+importante se utilizar algum software gráfico que seja capaz de utilizar o
+processador gráfico para fazer tarefas de grande paralelismo, por exemplo ao
+renderizar uma cena em um software de animação 3D compatível. Hoje muitos
+processadores contam com um dispositivo de vídeo incluso, que pode ser utilizado
+caso sua placa mãe seja compatível e deve ser suficiente para a maioria dos usos
+que deseje do seu computador. Uma placa de vídeo dedicada ainda pode ser útil
+nesse caso se desejar utilizar um monitor de altíssima resolução, para trabalhar
+com múltiplos elementos, ou mesmo se desejar utilizar múltiplos monitores.
+
+As especificações de Placas de Vídeo são difíceis de entender, então para jogos
+é interessante verificar *benchmarks*, há diversos websites que listam as placas
+de vídeo com seu desempenho em jogos específicos. É mais fácil verificar esses
+websites do que tentar entender as especificações de placa de vídeo. Quando ler
+a respeito, procure também informações quanto a ruídos, ainda que eles possam
+passar despercebidos em jogos podem incomodar quando estiver produzindo um texto
+por exemplo.
+
+De qualquer forma, atente para as saídas de vídeo da placa que deseja e
+verifique que os conectores (ex: HDMI, Display Port, ...), a resolução (ex:
+2560x1440) e taxa (ex: 60 Hz) atendem aos requerimentos do seu monitor. Uma
+placa de vídeo simples usualmente já será capaz de permitir uma saída de vídeo
+de altíssima definição para uso de interfaces - como para programação - porém
+será incapaz de sustentar uma taxa de quadros jogáveis para jogos. Se escolher
+uma placa dedicada, atente para a recomendação de potência para a fonte de seu
+computador - ela é inidicativa para um computador mediano que seja equipado com
+aquela placa.
+
+**Sendo prático...**
+
+* Se você deseja usar seu computador para jogos é essencial o uso de uma placa
+de vídeo dedicada. Estão disponíveis chips ATI e Nvidia. As diferenças por chip
+são as mais significativas.
+
+* Esses chips por sua vez são utilizados por fabricantes (ex: EVGA, Asus,
+Gigabyte, ...) para montar suas próprias placas - aqui pesa qualidade de
+material, quantidade de RAM de vídeo e quão silenciosa é a placa.
+
 
 
 ##Fonte

@@ -1,0 +1,3 @@
+#ignore my book tests unless I say so.
+*.mobi
+*.epub
