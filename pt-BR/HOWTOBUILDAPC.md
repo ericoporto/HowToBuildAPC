@@ -18,7 +18,7 @@ começar e precisa entender os passos envolvidos***
 
 O texto desse documento busca ser introdutório a atividade de montar o seu
 próprio computador, o *Personal Computer*, seu PC. Esse texto é um guia básico,
-use-o como um norte, mas faça sua própria pesquisa.  
+use-o como um norte, mas faça sua própria pesquisa.
 
 Se quiser montar seu computador, mas estiver muito inseguro, mesmo após ler esse
 texto e outras fontes, ver vídeos sobre o tópico e se informar sobre o assunto,

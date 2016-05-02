@@ -1,6 +1,6 @@
 #!/bin/bash
 # tested with:
-#  Amazon kindlegen(Linux) V2.9 build 1028-0897292
+#  Inkscape 0.91 r (Apr 29 2016)
 
 LANGUAGES=("pt-BR" "us-EN")
 HERE=`pwd`
